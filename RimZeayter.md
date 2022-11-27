@@ -1,3 +1,7 @@
+ <p align="center" >
+  <img width="150" src="./img/rim.jpeg">
+</p>
+
 ##Rim Zeayter
 >             Biochemistry and Web developer
 >Address:Beirut| E-mail:zeayterrim6@gmail.com| Mobile:961 76875591
