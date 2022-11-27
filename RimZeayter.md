@@ -52,6 +52,9 @@ TECHNICAL SKILLS
 2. **Operating Systems :** Windows, Linux
 3. **Applications :** Microsoft office,Visual Studio
 
+Biochemstry COURSES
 
-
-
+---------------
+|Physiology |Anatomy |Radiology |
+| -------- | ---------------|-----|
+| Enzymology  | Metabolism|Biochimica
